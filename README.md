@@ -1,4 +1,4 @@
-# DigiSphere | Open Source Synthetic Data Generation through Dynamic Virtual World Simulation and Agent Interaction Research Project
+# DigiSphere | Synthetic Data Generation through Dynamic Virtual World Simulation and Agent Interaction
 It is an innovative virtual world simulation research designed for complex synthetic data generation. AI agents generate realistic and diverse datasets through advanced environmental modeling and dynamic interactions.
 
 - **Dynamic Virtual World**: An interactive virtual environment that evolves in real time

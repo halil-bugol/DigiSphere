@@ -51,7 +51,7 @@ These components work in concert to create a dynamic, evolving virtual world whe
 
 In the following sections, we will delve deeper into each of these components, exploring the methodologies used in their development, the challenges encountered, and the results achieved. We will also discuss the broader implications of this research for the field of synthetic data generation and its potential applications across various domains.
 
-1. **Literature Review:**
+2. **Literature Review:**
 
 **2.1 Digital twin technology and its applications**
 
